@@ -1,5 +1,4 @@
 # Weather-App
-# Weather App
 
 A responsive weather application built using HTML, CSS, Bootstrap, and JavaScript that provides real-time weather information for any city using the WeatherAPI service.
 
